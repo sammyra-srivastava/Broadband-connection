@@ -1,0 +1,26 @@
+.signup{
+    height: 100vh;
+}
+
+.browse-header{
+    background: linear-gradient(to right, #000000a9,#000000a9), url(https://inc42.com/wp-content/uploads/2020/01/Untitled-design-2020-01-31T144633.364-1024x768.jpg);
+    background-position: center;
+}
+
+.add-query-back{
+    background: linear-gradient(to right, #0000009b, #000000ad), url(https://www.online-tech-tips.com/wp-content/uploads/2020/04/fix-intermittent-internet-connection-windows-10-fixes.jpg);
+  padding: 4rem;
+  text-shadow: 2px 2px 3px #0000005c;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.add-review{
+    background: linear-gradient(to right, #0000009b, #000000ad), url(http://localhost:5000/images/florist_back.webp);
+  height: 100vh;
+  padding: 5rem 0;
+  text-shadow: 2px 2px 3px #0000005c;
+  background-size: cover;
+  background-position: center;
+}
